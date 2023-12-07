@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Cherry Ko</h1>
-<h1 align="center"> 😊 Pronouns: She/Her</h1> 
 <h3 align="center">A professional Data Scientist</h3>
+<h5 align="center"> 😊 Pronouns: She/Her</h5> 
 
 
 Introduction
