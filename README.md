@@ -4,15 +4,15 @@
 <h5 align="center"> 😊 Pronouns: She/Her</h5> 
 
 
-Introduction
+-Introduction🚀
 
 I'm Cherry, a professional data scientist with a robust portfolio encompassing more than 10 practical projects. My skill set spans a wide array of competencies crucial to the data science domain, including data analytics, data visualization, Python, SQL, and machine learning.
 
-Professional Experience
+-Professional Experience 💼
 
 My journey as a data scientist has been marked by hands-on experience in diverse projects, each contributing to the refinement of my analytical and problem-solving skills. Through these projects, I've honed my abilities in extracting valuable insights, crafting compelling visualizations, and implementing machine learning solutions.
 
-Current Endeavors
+-Current Endeavors
 
 Presently, I am enrolled in the TripleTen 10-month Data Science Bootcamp, a comprehensive program covering a spectrum of essential topics:
 
@@ -27,7 +27,7 @@ Presently, I am enrolled in the TripleTen 10-month Data Science Bootcamp, a comp
 📈 Statistical Models: Expertise in both supervised and unsupervised learning techniques.
 
 
-<Education 🎓>
+-Education 🎓
 
 In addition to my practical experience, I hold a strong educational background, continuously expanding my knowledge base to stay at the forefront of advancements in the data science field.
 
