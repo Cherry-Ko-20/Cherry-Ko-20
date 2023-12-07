@@ -16,17 +16,18 @@ Current Endeavors
 
 Presently, I am enrolled in the TripleTen 10-month Data Science Bootcamp, a comprehensive program covering a spectrum of essential topics:
 
-Programming Languages: Proficient in Python, including Pandas, Numpy, and BeautifulSoup.
+🐍 Programming Languages: Proficient in Python, including Pandas, Numpy, and BeautifulSoup.
 
-Data Visualization: Expertise in creating visualizations using tools such as Matplotlib, Plotly, Tableau, and more.
+📊 Data Visualization: Expertise in creating visualizations using tools such as Matplotlib, Plotly, Tableau, and more.
 
-Machine Learning: Well-versed in machine learning frameworks like Scikit, NLTK, and TensorFlow.
+🤖 Machine Learning: Well-versed in machine learning frameworks like Scikit, NLTK, and TensorFlow.
 
-Database Management: Proficient in SQL, ensuring effective data handling and querying.
+💽 Database Management: Proficient in SQL, ensuring effective data handling and querying.
 
-Statistical Models: Expertise in both supervised and unsupervised learning techniques.
+📈 Statistical Models: Expertise in both supervised and unsupervised learning techniques.
 
-Education
+
+<Education 🎓>
 
 In addition to my practical experience, I hold a strong educational background, continuously expanding my knowledge base to stay at the forefront of advancements in the data science field.
 
