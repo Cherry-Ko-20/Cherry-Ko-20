@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Cherry Ko</h1>
 <h3 align="center">A professional Data Scientist</h3>
 
-#Introduction
+###Introduction
 
 I'm Cherry, a professional data scientist with a robust portfolio encompassing more than 10 practical projects. My skill set spans a wide array of competencies crucial to the data science domain, including data analytics, data visualization, Python, SQL, and machine learning.
 
