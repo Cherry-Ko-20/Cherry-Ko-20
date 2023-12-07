@@ -2,12 +2,14 @@
 <h1 align="center">Hi 👋, I'm Cherry Ko</h1>
 <h3 align="center">A professional Data Scientist</h3>
 
-I'm Cherry, a seasoned data scientist with a robust portfolio encompassing more than 10 practical projects. My skill set spans a wide array of competencies crucial to the data science domain, including data analytics, data visualization, Python, SQL, and machine learning.
+#Introduction
 
-Professional Experience
+I'm Cherry, a professional data scientist with a robust portfolio encompassing more than 10 practical projects. My skill set spans a wide array of competencies crucial to the data science domain, including data analytics, data visualization, Python, SQL, and machine learning.
+
+#Professional Experience
 My journey as a data scientist has been marked by hands-on experience in diverse projects, each contributing to the refinement of my analytical and problem-solving skills. Through these projects, I've honed my abilities in extracting valuable insights, crafting compelling visualizations, and implementing machine learning solutions.
 
-Current Endeavors
+#Current Endeavors
 Presently, I am enrolled in the TripleTen 10-month Data Science Bootcamp, a comprehensive program covering a spectrum of essential topics:
 
 Programming Languages: Proficient in Python, including Pandas, Numpy, and BeautifulSoup.
@@ -20,7 +22,7 @@ Database Management: Proficient in SQL, ensuring effective data handling and que
 
 Statistical Models: Expertise in both supervised and unsupervised learning techniques.
 
-Education
+#Education
 In addition to my practical experience, I hold a strong educational background, continuously expanding my knowledge base to stay at the forefront of advancements in the data science field.
 
 I am passionate about leveraging data to derive meaningful insights and am excited about the continuous learning journey ahead. Feel free to explore my projects and connect with me for discussions, collaborations, or opportunities within the dynamic realm of data science.
