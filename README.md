@@ -20,7 +20,7 @@ Presently, I am enrolled in the TripleTen 10-month Data Science Bootcamp, a comp
 
 📊 Data Visualization: Expertise in creating visualizations using tools such as Matplotlib, Plotly, Tableau, and more.
 
-🤖 Machine Learning: Well-versed in machine learning frameworks like Scikit, NLTK, and TensorFlow.
+🤖 Machine Learning: Well-versed in machine learning frameworks like Scikit-Learn, XGBoost, LightGBM, and PyTorch.
 
 💽 Database Management: Proficient in SQL, ensuring effective data handling and querying.
 
